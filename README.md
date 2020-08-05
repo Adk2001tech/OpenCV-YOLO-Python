@@ -7,6 +7,13 @@ Link for detailed information and implementation: https://medium.com/analytics-v
 
 ![IMG_20200525_121835](https://user-images.githubusercontent.com/64481847/82819375-e965ec80-9ebd-11ea-8e9b-6f0dc38614cb.jpg)
 
+<br>
+
+## Lane detection
+
+![Lane detection - Jupyter Notebook - Google Chrome 8_5_2020 1_27_59 PM](https://user-images.githubusercontent.com/64481847/89387051-94e1b780-d71f-11ea-82eb-f2dab524278f.png)
+
+
 # YOLO 
 
 Object detection using yolo v3
